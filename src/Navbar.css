@@ -1,0 +1,33 @@
+.middle{
+    background-color: black;
+    color: white;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 20px;
+    
+
+}
+li{
+    list-style-type: none
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+            
+}
+
+.nav{
+    position: relative;
+}
+.backgr{
+    min-height: calc(90vh);
+    background-image: url("https://wallpapercave.com/wp/wp6800435.jpg");
+    background-size: cover;
+    background-position: center center;
+}
